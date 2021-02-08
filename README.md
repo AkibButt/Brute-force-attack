@@ -1,6 +1,6 @@
 # Brute-force-attack
 How To Use:
-1.Make Sure You Have Install  requests library.If Not Install Using Pip.
+1.Make Sure You Have Install  requests library.If Not Install Use Pip to Install.
 2.This code will bruteforce facebook.com 
 Relpace Youremail@gamil.com and your@password
 With ur real facebook account .
